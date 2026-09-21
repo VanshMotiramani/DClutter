@@ -33,3 +33,6 @@ build/
 .vscode/
 V
 
+data/
+images/
+
